@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react' // you remove this part for some reason thats why
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
